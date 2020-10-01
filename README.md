@@ -1,4 +1,4 @@
-# Instahack
+# Instahack- Best Downloader For Instagram Images 
 Download Full size HD Instagram Images 
 
 # Dependencies
